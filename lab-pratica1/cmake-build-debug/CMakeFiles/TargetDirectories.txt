@@ -1,0 +1,3 @@
+C:/Dev/AP2-UFU/lab-pratica1/cmake-build-debug/CMakeFiles/lab-pratica1.dir
+C:/Dev/AP2-UFU/lab-pratica1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/AP2-UFU/lab-pratica1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
