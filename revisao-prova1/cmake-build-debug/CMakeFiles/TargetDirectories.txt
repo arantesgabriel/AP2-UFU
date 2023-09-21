@@ -1,0 +1,3 @@
+C:/Dev/UFU/AP2/revisao-prova1/cmake-build-debug/CMakeFiles/revisao_prova1.dir
+C:/Dev/UFU/AP2/revisao-prova1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/UFU/AP2/revisao-prova1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

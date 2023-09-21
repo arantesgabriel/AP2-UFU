@@ -1,0 +1,15 @@
+# ninja log v5
+5	55	7169588099635718	CMakeFiles/revisao_prova1.dir/exercicio2.c.obj	d1a2c7567e87fc7f
+0	132	7169613147339766	build.ninja	ad15e34da94d999f
+2	59	7169580600527243	CMakeFiles/revisao_prova1.dir/exercicio1.c.obj	16ebc48024208fcb
+51	128	7169612353612641	revisao_prova1.exe	bd87f0c7e15652c0
+2	51	7169604439704494	CMakeFiles/revisao_prova1.dir/exercicio3.c.obj	988c50bde9362a57
+1	51	7169611356082946	CMakeFiles/revisao_prova1.dir/exercicio4.c.obj	951bb1fc3aaa0248
+1	50	7169612352867461	CMakeFiles/revisao_prova1.dir/exercicio5.c.obj	45065ffd60fbf39e
+0	99	7169613147339766	build.ninja	ad15e34da94d999f
+0	58	7169613148434964	CMakeFiles/revisao_prova1.dir/ponteiros/exercicio4.c.obj	344bcba6b31e685a
+3	64	7169613148494964	CMakeFiles/revisao_prova1.dir/ponteiros/exercicio1.c.obj	a502eee5191da7df
+5	69	7169613148554973	CMakeFiles/revisao_prova1.dir/ponteiros/exercicio2.c.obj	837eacf19e2301c1
+9	71	7169613148575097	CMakeFiles/revisao_prova1.dir/ponteiros/exercicio3.c.obj	67b477a1a4ba87b3
+12	71	7169613148585068	CMakeFiles/revisao_prova1.dir/ponteiros/exercicio5.c.obj	5381587583baa4cc
+72	144	7169613149280179	revisao_prova1.exe	1f140982f7792160
